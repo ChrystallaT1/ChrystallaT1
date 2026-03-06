@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Chrystalla,
 
-<!--
-**ChrystallaT1/ChrystallaT1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+a Computer Science student at the University of Portsmouth with an interest in software development and technology.
 
-Here are some ideas to get you started:
+## Technical Skills
+- Python
+- JavaScript
+- Dart
+- SQL
+- Flutter
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🎵 Music Guessing Game – Web game using the Spotify API  
+📱 Flutter Marketplace App – Mobile app with wishlist and filtering functionality  
+
+## Currently Learning
+- API integration and web services
+- Mobile app development with Flutter
+- Software architecture and system design
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/chrystalla-tampouri-80a9a433a/
+Email: chrystallatambouri@hotmail.com
